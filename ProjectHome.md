@@ -1,0 +1,1 @@
+This project emulates some of the functions of a linux shell.
